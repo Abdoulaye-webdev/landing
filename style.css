@@ -1,0 +1,129 @@
+*{
+    padding: 5px;
+}header{
+    background-color: aqua;
+    height: 7000;
+    border: 5px;
+    border-bottom:40PX;
+}   background-color: aqua;
+    height: 700px;
+    border-radius: 5px;
+    padding-bottom: 90px;
+#hero {
+    display: flex;
+}
+
+.entete {
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    padding-bottom: 90px; 
+    margin-top: 15px;
+}
+samp{
+    color: aqua;
+    font-weight: bolder;
+    font-size: 50px;
+}
+#lien a{
+    text-decoration: nome ;
+    font-size: 40px;
+    margin: 5px;
+}
+#lampe{
+    align-items: center;
+    text-align: center;
+
+}
+#lampe h1{
+    color: rgb(240, 241, 241);
+    width: 100px;
+    font-size: 50px;
+}
+.image1 {
+   width: 50px;
+    position: absolute;
+    top: 80px;
+    right: 0;
+}
+#fonctinalité{
+    background-color: rgba(6, 214, 241, 0.819);
+    border-radius: 5px;
+}
+#solar {
+     
+     text-align: center;
+     border-radius: 5px;
+     padding: 2px;
+     background-color: #0056b3;
+
+}
+#solar h1{
+     color: white;
+     font-size: 50px;
+}
+#cord{
+    display: flex;
+    padding: 0 5%;
+}
+.pointclé{
+    background-color: rgb(91, 91, 231);
+   margin: 5px;
+   border-radius: 5px;
+margin:  5px;
+}
+.pointclé h1{
+    font-size: 25px;
+}
+.form-container{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow:0 4px 8px rgba rgba(0, 0, 0, 0.1)
+    width: 100%;
+   max-width: 400px;
+}
+.form-container h1{
+    text-align: center;
+
+}
+.form-group{
+    margin-bottom: 15px;
+}
+label{
+    display: block;
+    font-size: 14px;
+    color: #555
+    margin-bottom: 5px;
+}
+input,textarea{
+    width: 30%;
+    padding: 10px;
+    border: 3px solid #ddd;
+border-radius: 4px;
+font-size: 14px;
+color: #333;
+}
+textarea{
+    resize: vertical;
+}
+button{
+    width: 20%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: bacground-color 0.3s;
+}
+button:hover{
+    background-color: #0056b3;
+}
+footer{
+    background-color: rgb blue (244, 248,);
+    padding-top: 30px;
+}
+#copy{
+    text-align: center;
+}
